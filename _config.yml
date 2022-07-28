@@ -1,1 +1,8 @@
 theme: minima
+
+minima:
+  header_pages:
+    - about.md
+    - index.md
+  social_links:
+    twitter: piscilus
